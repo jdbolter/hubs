@@ -1,3 +1,5 @@
+console.log("CUSTOM CLIENT TEST - AEL BRANCH - 2/12/2024");
+
 import {
   getCurrentHubId,
   updateVRHudPresenceCount,
